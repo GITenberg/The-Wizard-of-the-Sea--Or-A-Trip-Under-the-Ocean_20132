@@ -1,0 +1,31 @@
+_repo: The-Wizard-of-the-Sea--Or-A-Trip-Under-the-Ocean_20132
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Rockwood, Roy
+    gutenberg_agent_id: '1625'
+    url: http://www.gutenberg.org/2009/agents/1625
+    wikipedia: http://en.wikipedia.org/wiki/Roy_Rockwood
+description: ''
+gutenberg_bookshelf: Science Fiction
+gutenberg_issued: '2006-12-19'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '20132'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Submarines (Ships) -- Juvenile fiction'
+- !lcsh 'Conduct of life -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcsh 'Teachers -- Juvenile fiction'
+- !lcsh 'Students -- Juvenile fiction'
+- !lcsh 'Adventure stories'
+- !lcsh 'Voyages and travels -- Juvenile fiction'
+title: The Wizard of the Sea; Or, A Trip Under the Ocean
+url: http://www.gutenberg.org/ebooks/20132
