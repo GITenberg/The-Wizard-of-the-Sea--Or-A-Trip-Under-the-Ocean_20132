@@ -10,6 +10,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1625
     wikipedia: http://en.wikipedia.org/wiki/Roy_Rockwood
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/20132#The-Wizard-of-the-Sea--Or-A-Trip-Under-the-Ocean
 gutenberg_bookshelf: Science Fiction
 gutenberg_issued: '2006-12-19'
 gutenberg_type: Text
